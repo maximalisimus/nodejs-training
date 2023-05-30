@@ -1,0 +1,18 @@
+
+
+mkdir -p ./install/here/node_modules
+npm install --prefix ./install/here <package>
+npm --prefix ./path/ run command
+ 
+yarn --cwd ./path/ command
+
+
+
+
+
+
+
+
+
+
+
